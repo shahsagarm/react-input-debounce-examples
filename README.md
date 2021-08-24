@@ -2,6 +2,8 @@
 
 > This little poc app shows how to implement input debouncing in your react.js app using techniques like setTimeout, custom react hook, lodash.js and underscore.js.
 
+![](https://raw.githubusercontent.com/shahsagarm/react-input-debounce-examples/master/preview.gif)
+
 ## Technologies
 This poc uses below open source libraries:
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces
